@@ -1,0 +1,1 @@
+export const commonPoint = "http://localhost:8000"
